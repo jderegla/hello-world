@@ -12,3 +12,6 @@ Other Resources:
 
   - [iTerm2](https://www.iterm2.com/)
   - @robbyrussell's [Oh My Zsh!](https://github.com/robbyrussell/oh-my-zsh)
+
+Projects:
+  - Let's build responsive resume sites with [Gatsby](https://www.gatsbyjs.org/) using [NPM](https://www.npmjs.com/) on the Command Line.
